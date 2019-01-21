@@ -27,7 +27,7 @@ Esquema do Cenario:
 
 Exemplos:
     |name  |last_name|email                  |age|phone      |address |state       |city          |mensagem            |codigo|
-    |bruno |batista  |novoemail22@hotmail.com|28 |21984759575|Rua dois|Minas Gerais|Belo Horizonte|Created             |201   |
+    |bruno |batista  |novoemail36@hotmail.com|28 |21984759575|Rua dois|Minas Gerais|Belo Horizonte|Created             |201   |
     #|bruno |batista  |novoemail2@hotmail.com |28 |21984759575|Rua dois|Minas Gerais|Belo Horizonte|Unprocessable Entity|422   |
 
 
@@ -49,5 +49,5 @@ Esquema do Cenario:
 
 Exemplos: 
     |id |codigo|mensagem  |codigo2|mensagem2|
-    |41 |204   |No Content|404    |Not Found|
+    |48 |204   |No Content|404    |Not Found|
 
